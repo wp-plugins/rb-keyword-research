@@ -1,5 +1,5 @@
 === RB Keyword Research Plugin ===
-Contributors: Ronnie Bailey
+Contributors: Ron Bailey
 Donate link: http://www.ronniebailey.net
 Tags: meta keywords, keyword research, seo, suggested keywords, keyword planner, keyword planning, search engine optimization, keywords, marketing, seo content, seo plugin, wordpress seo, google, seo optimization, keyword research tools, seo keyword research, keyword tool, keyword generator, keyword search tool, long tail keywords
 Requires at least: 3.0.1
@@ -33,6 +33,9 @@ RB Keyword Search supports most international countries. Get ideas for content, 
 
 There are no limitations, but too many requests may result in a temporary block from Google, so try to use an appropriate amount of requests.
 
+= Do you need support? =
+
+Contact me at : www.ronniebailey.net
 
 == Screenshots ==
 
@@ -41,4 +44,8 @@ There are no limitations, but too many requests may result in a temporary block 
 
 == Changelog ==
 
+= 1.0 =
+* First go around
+
 == Upgrade Notice == 
+* Will have new features soon.
