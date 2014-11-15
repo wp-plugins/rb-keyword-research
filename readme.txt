@@ -39,8 +39,8 @@ Contact me at : www.ronniebailey.net
 
 == Screenshots ==
 
-1. /assets/Screenshot_1.png
-2. /assets/Screenshot_2.png
+1. Shot one
+2. Shot two
 
 == Changelog ==
 
