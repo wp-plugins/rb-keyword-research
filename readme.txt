@@ -1,6 +1,6 @@
 === RB Keyword Research Plugin ===
 Contributors: Ron Bailey
-Donate link: http://www.ronniebailey.net
+Donate link: http://www.websiteop.com/wordpress-plugins
 Tags: meta keywords, keyword research, seo, suggested keywords, keyword planner, keyword planning, search engine optimization, keywords, marketing, seo content, seo plugin, wordpress seo, google, seo optimization, keyword research tools, seo keyword research, keyword tool, keyword generator, keyword search tool, long tail keywords
 Requires at least: 3.0.1
 Tested up to: 4.1
@@ -35,7 +35,7 @@ There are no limitations, but too many requests may result in a temporary block 
 
 = Do you need support? =
 
-Contact me at : www.ronniebailey.net
+Contact me at : www.websiteop.com/wordpress-plugins
 
 == Screenshots ==
 
