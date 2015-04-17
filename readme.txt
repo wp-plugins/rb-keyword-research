@@ -19,6 +19,9 @@ This plug in will pull these keywords in for whatever term you enter and you can
 
 RB Keyword Search supports most international countries. Get ideas for content, optimize your website meta information, grow your traffic with this plug in.
 
+= Helpful Links =
+1. [Web Development][http://www.websiteop.com/web-application-development/ "Web Development"]
+
 == Installation ==
 
 1. Download the 'RB Keyword Research' plug in from Wordpress plugins.
