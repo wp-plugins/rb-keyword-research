@@ -3,7 +3,7 @@
 <h1>RB Keyword Research</h1>
 
 	<p>RB Keyword research, gathers what people are searching for in Google's auto-suggest tool, these keywords are great for building your keyword list.</p>
-	<p>For support or questions, please visit me at <a href="http://www.ronniebailey.net" target="_blank">http://www.ronniebailey.net</a></p>
+	<p>For support or questions, please visit us at <a href="http://www.websiteop.com" target="_blank">WebsiteOp</a></p>
 
 <h2>Step #1) Set Country:</h2>
 
